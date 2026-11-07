@@ -1,0 +1,4 @@
+$ just test-all
+cc *.c -o main
+./test --all
+Yay, all your tests passed!
